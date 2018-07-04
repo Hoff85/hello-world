@@ -1,3 +1,10 @@
 # hello-world
 What's this then?
-This needs to be deleted
+
+My background is in Geoscience and I have worked in the Oil and Gas sector for 10 years. Due to a major downturn in 2014, there has been a lack of career development opportunities in the industry. I am now looking to take the data analytic skills I have developed and apply them in a different area. 
+
+I started my career in 2008 as a Technical Assistant at a company called Neftex, a start-up developing data rich products, GIS solutions and analytical services for oil and gas exploration. Clients included major energy companies such as BP, Shell and Exxon and allowed them to improve their exploration processes. The data underpinning Neftex products where gathered from various academic and industry sources available in the public domain and I was tasked with identifying, extracting and cataloguing these data. I gathered the data from the web and input to a MS Access database, which over time, and through necessity, evolved into a SQL database. I was promoted internally to Junior Geoscientist working in the Sub-Saharan African team where I developed Geodatabases in ArcGIS allowing data to be analysed both spatially and temporally. Neftex grew rapidly and was eventually bought by Halliburton, a global service provider to the Oil and Gas industry.
+
+After leaving Neftex and completing my MSc in Petroleum Geoscience, I started working as a Geologist at Third Energy, a start-up oil and gas company with private equity funding in 2011. I was tasked with re-developing technically difficult and thus poorly exploited gas fields, as well as seeking additional exploration potential. I worked in a team of geoscientists and engineers and I played a key part in developing a unique production technique to further exploit the existing gas fields. In addition, we identified and quantified the gas potential of the Bowland Shale, an unconventional resource within our area of interest.  Both of these projects have the potential to generate significant value - both nationally and for Third energy. My full analysis and technical evaluations of these projects were published by The Geological Society of London. 
+
+I enjoy working in a team environment to develop and create pragmatic solutions for complex tasks. I approach my work with enthusiasm and a dedication to the project.
